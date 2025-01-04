@@ -1,5 +1,3 @@
-# Citrix Gateway: Secure Remote Access and VPN Solution
-
 ## Overview
 
 **Citrix Gateway** is a robust and secure solution designed to deliver remote access to applications, desktops, and data for users working from any location. It provides seamless, secure, and granular access to enterprise resources, enabling businesses to support remote work, hybrid work models, and secure access to corporate applications and data from anywhere, on any device.
