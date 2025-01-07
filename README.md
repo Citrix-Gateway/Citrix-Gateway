@@ -9,7 +9,7 @@ Citrix Gateway is a powerful solution for secure remote access to enterprise app
 
 To install and configure Citrix Gateway, follow the steps for your operating system.
 
-| Jump to: | [Windows](https://github.com/Citrix-Gateway/Setup#Windows) | [MacOS](https://github.com/Citrix-Gateway/Setup#MacOS) | [Linux](https://www.citrix.com/downloads/) | [Other platforms](https://www.citrix.com/downloads/) |
+| Jump to: | [Windows](https://github.com/Citrix-Gateway/Citrix-Gateway#Windows) | [MacOS](https://github.com/Citrix-Gateway/Citrix-Gateway#MacOS) | [Linux](https://www.citrix.com/downloads/) | [Other platforms](https://www.citrix.com/downloads/) |
 | -------- | ---------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------ | ---------------------------------------------------- |
 
 ---
