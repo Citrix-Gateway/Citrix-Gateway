@@ -1,4 +1,4 @@
-# <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt="Sonarr"></img> Citrix Gateway: Secure Remote Access Solution
+# <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt=""></img> Citrix Gateway: Secure Remote Access Solution
 
 [![Backers on Open Collective](https://img.shields.io/github/license/instaloader/instaloader.svg)](#backers)
 [![Backers on Open Collective](https://img.shields.io/aur/version/instaloader.svg)](#backers)
