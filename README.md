@@ -1,4 +1,4 @@
-# <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt=""></img> Citrix Gateway: Download Secure Access Solution
+# <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt=""></img> Citrix Gateway
 
 [![Backers on Open Collective](https://img.shields.io/github/license/instaloader/instaloader.svg)](#backers)
 [![Backers on Open Collective](https://img.shields.io/aur/version/instaloader.svg)](#backers)
@@ -87,3 +87,4 @@ Download the package suitable for your Linux distribution:
 ---
 
 For more detailed configuration options, visit the Citrix Gateway Documentation.
+Citrix Gateway: Download Secure Access Solution
