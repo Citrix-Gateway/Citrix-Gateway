@@ -1,18 +1,15 @@
-# <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt=""></img> Citrix Gateway
+## Citrix Gateway: Download Secure Access Solution <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt=""></img>
 
 [![Backers on Open Collective](https://img.shields.io/github/license/instaloader/instaloader.svg)](#backers)
 [![Backers on Open Collective](https://img.shields.io/aur/version/instaloader.svg)](#backers)
 [![Sponsors on Open Collective](https://pepy.tech/badge/instaloader/month)](#sponsors)
 [![Mega Sponsors on Open Collective](https://img.shields.io/github/contributors/unoplatform/uno.svg?style=flat&color=7a67f8)](#mega-sponsors)
 
-Citrix Gateway is a powerful solution for secure remote access to enterprise applications, enabling seamless connectivity with robust security controls. Follow this guide to install and configure Citrix Gateway on your preferred platform.
 
-To install and configure Citrix Gateway, follow the steps for your operating system.
 
 | Jump to: | [Windows](https://github.com/Citrix-Gateway/Citrix-Gateway#Windows) | [MacOS](https://github.com/Citrix-Gateway/Citrix-Gateway#MacOS) | [Linux](https://www.citrix.com/downloads/) | [Other platforms](https://www.citrix.com/downloads/) |
 | -------- | ---------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------ | ---------------------------------------------------- |
 
----
 
 ## Windows
 
